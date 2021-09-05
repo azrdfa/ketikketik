@@ -1,6 +1,5 @@
 - 👋 Hi, my name is Azhar !!
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning advance CSS, love to master this styling language !!
 - 📫 How to reach me aazhard8@gmail.com
 
 <!---
