@@ -6,6 +6,7 @@
 - 🔥🔥🔥 and the most important, always onfayahhhhh!!!
 
 ### Projects I can be proud of
+---
 1. 🧠 [Can You Remember These Images?](https://github.com/ketikketik/canyouremembertheseimages)
 
 2. 🎮 [Brawl Companion](https://github.com/ketikketik/brawl_companion)
