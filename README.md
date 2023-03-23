@@ -1,17 +1,3 @@
-## Hi there, Friendly Elmo Here 👋👋👋
-### I'm a Fictional Character, Developer, and The Leader of Sesame Street University
-- 😈 evil dictator!
-- 🐍 love snake!
-- 🐸 hate frog!
-- 🔥🔥🔥 and the most important, always onfayahhhhh!!!
-
-### Projects I can be proud of
-1. 🧠 [Can You Remember These Images?](https://github.com/ketikketik/canyouremembertheseimages)
-
-2. 🎮 [Brawl Companion](https://github.com/ketikketik/brawl_companion)
-
-3. 🤖 [Platformer Robo](https://github.com/ketikketik/platformer-robo)
-
 ### A glimpse of my Github activity
 ---
 
